@@ -5,7 +5,7 @@ FinTech Project
 The FinTech project is a comprehensive web application designed to simplify financial management for companies. It provides tools to manage and control budgets, track purchases, and maintain financial data with ease. By offering functionalities such as invoice management, detailed financial reports, and real-time notifications, this application aims to streamline the financial processes of any organization.
 
 
-Features
+2 Features
 
 •	User Authentication: Secure system for user registration and login.
 
@@ -19,7 +19,7 @@ Features
 
 
 
-2 Technologies Used
+3 Technologies Used
 
 •	Frontend: HTML, CSS, JavaScript
 
@@ -30,7 +30,7 @@ Features
 •	Libraries & Frameworks: Bootstrap, jQuery, Chart.js
 
 
-3 Usage
+4 Usage
 
 1.	Registration: Create a new user account.
    
@@ -46,7 +46,7 @@ Features
 7.	Settings: Update your profile information and application preferences.
 
 
-4 Architecture
+5 Architecture
 
 The FinTech project is structured as follows:
 
